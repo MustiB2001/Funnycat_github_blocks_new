@@ -1,0 +1,44 @@
+.firstRow{
+
+    background-color: blue;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    width: 98%;
+    margin: 20px;
+}
+img{
+    margin: 20px;
+    
+}
+#header{
+    height: 100px;
+    text-align: center;
+    font-size: 100px;
+}
+.secondRow{
+    background-color: blueviolet;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    width: 98%;
+    
+}
+.container{
+    padding: 10px;
+    background-color:grey;
+}
+.thirdRow{
+
+    background-color: blue;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    width: 98%;
+    margin: 20px;
+
+}
+h3{
+    text-align: center;
+}
